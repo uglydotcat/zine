@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Zine</string>
+    <string name="nobooks">no books added yet\ntap the button to add some!</string>
+</resources>
